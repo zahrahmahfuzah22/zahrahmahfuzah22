@@ -11,7 +11,7 @@
 
 ## 🛠 Tech Stack
 ### Programming Languages:
-<img src="https://img.shields.io/badge/www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw3b2g1yW2McfutJaavSc_tT&ust=1742221561417000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjXmJznjowDFQAAAAAdAAAAABAE" height="25">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
