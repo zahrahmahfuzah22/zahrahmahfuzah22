@@ -21,5 +21,4 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="50"> 
-  <img src="https://logowik.com/content/uploads/images/looker-studio-by-google8273.jpg" height="50">
 </p>
