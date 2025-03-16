@@ -1,7 +1,7 @@
 # Hi, welcome to my GitHub! 🤔
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahrah-mahfuzah)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahrahmahfuzah22@gmail.com)
 
 ## 👩‍💻 About me
 - 👋 I'm Zahrah Mahfuzah, an undergraduate Statistics student at Universitas Indonesia.
