@@ -11,6 +11,13 @@
 
 ## 🛠 Tech Stack
 ### Programming Languages:
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Looker_Studio_Logo.png" height="50">
+</p>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" width="50"> 
 
 ### Website Development:
